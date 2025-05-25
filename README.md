@@ -1,1 +1,3 @@
 # Lab8-Starter
+
+Graceful degradation and service workers are related because service workers help network requests run in the background, something that could be much slower or more intensive on older systems. Additionally, by using the cache, service workers let your website run well even with a slow network or no connection at all (under not perfect conditions) which is the whole point of graceful degradation.
